@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\PatikaCohortsOdev2.props" />
+</Project>
