@@ -8,8 +8,8 @@ var builder = WebApplication.CreateBuilder(args);
 builder.Services.AddControllers();
 // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
 builder.Services.AddEndpointsApiExplorer();
+
 builder.Services.AddSwaggerGen();
-//builder.Services.AddExceptionHandler<UseGlobalException>();
 
 builder.Services.AddScoped<CommandResponse>();
 
@@ -28,6 +28,6 @@ app.UseAuthorization();
 
 app.MapControllers();
 
-//app.UseExceptionHandler();
+app.UseGlobalLogMiddleware();
 
 app.Run();

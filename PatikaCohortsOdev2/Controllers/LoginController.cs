@@ -1,10 +1,11 @@
-﻿using Microsoft.AspNetCore.Mvc;
+﻿using Microsoft.AspNetCore.Authorization;
+using Microsoft.AspNetCore.Mvc;
 using PatikaCohortsOdev2.Model;
 
-// For more information on enabling Web API for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
 
 namespace PatikaCohortsOdev2.Controllers;
 
+[Authorize]
 [Route("api/[controller]")]
 [ApiController]
 public class LoginController : ControllerBase

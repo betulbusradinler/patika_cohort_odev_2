@@ -4,6 +4,7 @@ using System.ComponentModel.DataAnnotations;
 
 namespace PatikaCohortsOdev2.Model;
 
+
 [UserLoginValidationAttr]
 public class User
 {
