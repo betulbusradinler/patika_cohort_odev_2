@@ -4,8 +4,6 @@ using PatikaCohortsOdev2.Model;
 
 
 namespace PatikaCohortsOdev2.Controllers;
-
-[Authorize]
 [Route("api/[controller]")]
 [ApiController]
 public class LoginController : ControllerBase

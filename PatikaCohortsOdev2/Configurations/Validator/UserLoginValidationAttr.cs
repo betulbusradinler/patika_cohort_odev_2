@@ -1,22 +1,12 @@
-﻿using Microsoft.AspNetCore.Mvc.Filters;
-using PatikaCohortsOdev2.Model;
+﻿using PatikaCohortsOdev2.Model;
 using System.ComponentModel.DataAnnotations;
 
 namespace PatikaCohortsOdev2.Configurations.Validator;
 
 // Use Custom Attribute
 
-public class UserLoginValidationAttr : ValidationAttribute, IAuthorizationFilter
+public class UserLoginValidationAttr : ValidationAttribute
 {
-    public void OnAuthorization(AuthorizationFilterContext context)
-    {
-        var result = context.HttpContext.Request.Body.ToString;
-        var r1 = context.HttpContext.Request.Body.Position;
-        var r2 = context.HttpContext.Request.Body.GetType;
-        var r3 = context.HttpContext.Request.Body.GetType;
-        throw new NotImplementedException();
-    }
-
     protected override ValidationResult IsValid(object value, ValidationContext validationContext)
     {
         var user = (User)validationContext.ObjectInstance;

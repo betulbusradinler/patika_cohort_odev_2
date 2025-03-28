@@ -72,3 +72,5 @@ D:\PAPARA BOOTCAMP\COHORTS ÖDEV\PatikaOdev1Düzenlenen\PatikaCohortsOdev2\Patik
 D:\PAPARA BOOTCAMP\COHORTS ÖDEV\PatikaOdev1Düzenlenen\PatikaCohortsOdev2\PatikaCohortsOdev2\obj\Debug\net8.0\ref\PatikaCohortsOdev2.dll
 D:\PAPARA BOOTCAMP\COHORTS ÖDEV\PatikaOdev1Düzenlenen\PatikaCohortsOdev2\PatikaCohortsOdev2\obj\Debug\net8.0\PatikaCohortsOdev2.sourcelink.json
 D:\PAPARA BOOTCAMP\COHORTS ÖDEV\PatikaOdev1Düzenlenen\PatikaCohortsOdev2\PatikaCohortsOdev2\bin\Debug\net8.0\Newtonsoft.Json.dll
+D:\PAPARA BOOTCAMP\COHORTS ÖDEV\PatikaCohortsOdev2\PatikaCohortsOdev2\bin\Debug\net8.0\Newtonsoft.Json.dll
+D:\PAPARA BOOTCAMP\COHORTS ÖDEV\PatikaCohortsOdev2\PatikaCohortsOdev2\obj\Debug\net8.0\PatikaCohortsOdev2.sourcelink.json

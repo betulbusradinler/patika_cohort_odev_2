@@ -497,11 +497,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\PAPARA BOOTCAMP\\COHORTS ÖDEV\\PatikaOdev1Düzenlenen\\PatikaCohortsOdev2\\PatikaCohortsOdev2\\PatikaCohortsOdev2.csproj",
+      "projectUniqueName": "D:\\PAPARA BOOTCAMP\\COHORTS ÖDEV\\PatikaCohortsOdev2\\PatikaCohortsOdev2\\PatikaCohortsOdev2.csproj",
       "projectName": "PatikaCohortsOdev2",
-      "projectPath": "D:\\PAPARA BOOTCAMP\\COHORTS ÖDEV\\PatikaOdev1Düzenlenen\\PatikaCohortsOdev2\\PatikaCohortsOdev2\\PatikaCohortsOdev2.csproj",
+      "projectPath": "D:\\PAPARA BOOTCAMP\\COHORTS ÖDEV\\PatikaCohortsOdev2\\PatikaCohortsOdev2\\PatikaCohortsOdev2.csproj",
       "packagesPath": "C:\\Users\\ASUS\\.nuget\\packages\\",
-      "outputPath": "D:\\PAPARA BOOTCAMP\\COHORTS ÖDEV\\PatikaOdev1Düzenlenen\\PatikaCohortsOdev2\\PatikaCohortsOdev2\\obj\\",
+      "outputPath": "D:\\PAPARA BOOTCAMP\\COHORTS ÖDEV\\PatikaCohortsOdev2\\PatikaCohortsOdev2\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -1,4 +1,5 @@
-﻿using System.ComponentModel.DataAnnotations;
+﻿using PatikaCohortsOdev2.Configurations.Validator;
+using System.ComponentModel.DataAnnotations;
 
 namespace PatikaCohortsOdev2.Model;
 
@@ -22,6 +23,6 @@ public class Customer
     public string PhoneNumber { get; set; }
    
     [Required]
-    //[CustomerAgeAttribute]
+    [CustomerAgeAttribute]
     public DateTime DateOfBirth { get; set; }
 }
